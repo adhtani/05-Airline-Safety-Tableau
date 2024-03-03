@@ -1,4 +1,4 @@
-# Project-AirlineSafety  
+# Airline Safety - Data Visualization in Tableau  
  
 **Introduction**
 This Project is a Data visualization project that used Tableau for visuals and Python for data pre-processing. Five different visuals were created using various tools. This project provides a hands-on Data visualization skill. Following visuals were built:    
